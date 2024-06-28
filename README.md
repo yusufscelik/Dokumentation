@@ -58,8 +58,7 @@ Für **Zeitanalyse**;
 
 Ansonsten gibt es bei der Zählerliste die Möglichkeit, eine Liegenschaft (_select_properties_) zu wählen und diese in der Karte (_state_map_) zu sehen. 
 
-![map](https://github.com/yusufscelik/Dokumentation/assets/95184239/1c4f3ed0-497e-4249-9682-691b26a28bd0)
-
+![map](https://github.com/yusufscelik/Dokumentation/assets/95184239/0459c37f-c158-47d3-86ad-ee04d4b4d361)
 
 * Diese zwei States sind zusammen durch eine HTML-Karte aufgebaut.
 * Es ermöglicht, bei allen Zählerlisten die Liegenschaften in der Karte zu sehen.
