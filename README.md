@@ -21,7 +21,7 @@ Damit bildet man 3 Haupt Tabs auf der Startseite.
 
 1. Strom *(state_of_electricity)* <br>
 2. Erdgas *(state_of_gas)* <br>
-3. Wasser. *(state_of_water)* <br>
+3. Wasser *(state_of_water)* <br>
    
 Diese drei Hauptzustände werden im Default State als **Tabs** angezeigt. Dadurch kann man leicht zwischen ihnen navigieren.
 
