@@ -1,9 +1,5 @@
 28-06-2024 11:14
 
-Status:
-
-Tags: #dokumentation
-
 ### Dokumentation für Energie Dashboard
 
 Bei dieser Dokumentation geht es um das Energie-Dashboard. 
