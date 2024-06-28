@@ -16,12 +16,12 @@ Bei dieser Dokumentation geht es um das Energie-Dashboard.
 	* Beispiel: _state_of_SOMETHING_
 
 
-## ==Hauptzustände== (states)
+## Hauptzustände (states)
 
 Es gibt insgesamt 3 Hauptzustände bzw 3 Energie Werte.
 Damit bildet man 3 Haupt Tabs auf der Startseite.
 
-![[Selection_013.png]]
+![Selection_013](https://github.com/yusufscelik/Dokumentation/assets/95184239/abbfcaf5-3078-44e8-8c5b-3fccd9251540)
 
 1- Strom *(state_of_electricity)*
 2- Erdgas *(state_of_gas)*
